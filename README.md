@@ -1,5 +1,6 @@
 # warna-tailwind
-Kumpulan warna Tailwind 
+
+Kumpulan warna Tailwind
 
 ## Install
 
@@ -11,15 +12,15 @@ pnpm i warna-tailwind
 
 ```html
 <script>
- import "warna-tailwind"
+  import "warna-tailwind/warna.css";
 </script>
 
 <p>Hello World</p>
 
 <style>
- p {
- 	color: var(--orange-500);
- 	background: var(--pink-500);
- }
+  p {
+    color: var(--orange-500);
+    background: var(--pink-500);
+  }
 </style>
 ```
