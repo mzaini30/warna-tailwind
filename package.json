@@ -1,0 +1,20 @@
+{
+  "name": "warna-tailwind",
+  "version": "1.0.0",
+  "description": "Kumpulan warna Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/warna-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzaini30/warna-tailwind/issues"
+  },
+  "homepage": "https://github.com/mzaini30/warna-tailwind#readme"
+}
